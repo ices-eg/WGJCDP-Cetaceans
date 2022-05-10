@@ -54,7 +54,7 @@ Data sources should be acknowledged by a citation. Detailed information and exam
 A minimum requirement citation would include the following:
  Joint Cetacean Data Programme (JCDP) (https://cetaceans.ices.dk), 2022. ICES, Copenhagen
 
-Please acknowledge the following data sources when using the data:
+This download contains data from the following data providers:
 XXXXXXXXXXXXXXXXXXXX
 
 
